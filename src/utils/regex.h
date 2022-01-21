@@ -13,7 +13,7 @@
  *
  */
 
-#include <pcre.h>
+#include <../../include/pcre.h>
 
 #include <iostream>
 #include <fstream>

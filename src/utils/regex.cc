@@ -15,7 +15,7 @@
 
 #include "src/utils/regex.h"
 
-#include <pcre.h>
+#include <../../include/pcre.h>
 #include <string>
 #include <list>
 
